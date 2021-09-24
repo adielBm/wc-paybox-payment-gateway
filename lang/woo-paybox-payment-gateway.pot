@@ -1,0 +1,119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Payment Gateway for Paybox on Woocommerce\n"
+"POT-Creation-Date: 2020-10-13 08:53+0300\n"
+"PO-Revision-Date: 2020-10-13 08:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wc-paybox-payment-gateway.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wc-paybox-payment-gateway.php:40
+msgid "Setting"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:81 wc-paybox-payment-gateway.php:123
+msgid "Paybox Payment"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:82
+msgid ""
+"Payment Gateway for Paybox by Israel Discount Bank. Orders are marked as "
+"\"on-hold\" when received."
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:113
+msgid "Enable/Disable"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:115
+msgid "Enable Paybox Payment"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:120
+msgid "Title"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:122
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:128
+msgid "Description"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:130
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:136
+msgid "Instructions"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:138
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:139
+msgid ""
+"Please forward a Paybox payment, use an order number in the Note field when "
+"making payment."
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:144
+msgid "Receiver Phone Number"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:146
+msgid "Payments are sent to this number."
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:151
+msgid "Paybox App Link"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:153
+msgid ""
+"A link to the paybox app, which will appear on the thank you page. (The link "
+"can be found in the paybox app). The link looks like this: https://payboxapp."
+"page.link/"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:173 wc-paybox-payment-gateway.php:196
+msgid "Phone Number:"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:176 wc-paybox-payment-gateway.php:199
+msgid "Click here to go to the paybox app"
+msgstr ""
+
+#: wc-paybox-payment-gateway.php:218
+msgid "Awaiting Paybox payment"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Payment Gateway for Paybox on Woocommerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Payment Gateway Plugin for Paybox by Israel Discount Bank."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "adiel ben moshe"
+msgstr ""
